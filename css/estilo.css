@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+header { /*Daniel Vivas Álvarez*/
+    background-color: #333;
+    color: white;
+    padding: 8px 3px;
+    text-align: center;
+}
+
+nav ul li {/*Daniel Vivas Álvarez*/
+    display: inline;
+    margin: 0 10px;
+}
+header a:hover{
+    color:  #a9065d;
+}
+
+a {/*Daniel Vivas Álvarez*/
+    text-decoration: none;
+    color: #f4f4f9;
+}
+
+body {/*Daniel Vivas Álvarez*/
+    background-color: #f4f4f9;
+    color: #0b0a0a;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center; 
+}
+
+footer {/*Daniel Vivas Álvarez*/
+    background-color: #333;
+    color: white;
+
+}
+
+img {/*Daniel Vivas Álvarez*/
+    width: 50%;
+}
+
+h1 {/*Daniel Vivas Álvarez*/
+    color: grey;
+
+}
+
+ul {/*Daniel Vivas Álvarez*/
+    list-style: none;
+    color: #f4f4f9;
+}
+/*Daniel Vivas Álvarez*/

@@ -1,0 +1,60 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+header {/*Daniel Vivas Álvarez*/
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+header a:hover{
+    color:  #a9065d;
+}
+body {/*Daniel Vivas Álvarez*/
+    background-color: #f4f4f9;
+    color: #0b0a0a;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center;
+}
+nav ul li {/*Daniel Vivas Álvarez*/
+    display: inline;
+    margin: 0 10px;
+}
+
+a {/*Daniel Vivas Álvarez*/
+    text-decoration: none;
+    color: #f4f4f9;
+}
+
+h1 {/*Daniel Vivas Álvarez*/
+    color: #fff;
+    text-align: center;
+}
+footer {/*Daniel Vivas Álvarez*/
+    background-color: #333;
+    color: white;
+
+}
+form {/*Daniel Vivas Álvarez*/
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 20px auto;
+}
+input[type="text"],/*Daniel Vivas Álvarez*/
+input[type="number"],/*Daniel Vivas Álvarez*/
+select {/*Daniel Vivas Álvarez*/
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+
+input[type="submit"]{/*Daniel Vivas Álvarez*/
+    background:  #4CAF50;
+    color: white;
+    width: 100%;
+}
+
+/*Daniel Vivas Álvarez*/
